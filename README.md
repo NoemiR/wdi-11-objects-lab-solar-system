@@ -240,6 +240,7 @@ When you `console.log(system)`, planetX should be appear as a planet in the syst
 
 <br>
 <hr>
+### Please Hit the earth emoji before moving on when you reach this point
 <hr>
 <br>
 
