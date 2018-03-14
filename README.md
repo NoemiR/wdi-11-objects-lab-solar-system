@@ -245,7 +245,7 @@ When you `console.log(system)`, planetX should be appear as a planet in the syst
 
 # Let's turn it up a notch.
 
-Self-guided study and research: This will require you to try things we haven't talked about yet.  We will cover them tomorrow and Friday, but see if you can figure out how to do it by just reading MDN pages.
+Self-guided study and research: This will require you to try things we haven't talked about yet.  We will cover them tomorrow and Friday, but see if you can figure out how to do it by just reading MDN pages.  Even still, it is 100% expected that most students will have some difficulty doing this as of right now.
 
 ## sorting an array of objects
 
